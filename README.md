@@ -19,6 +19,7 @@ k-means
 
 spectal
 
+某些特征被去除，感性上相当于我们在k-means中利用方差和均值对特征进行筛选。
 ![image](https://github.com/DvHuang/Wifi_Clust/blob/master/davy_library_project/d_ap/spectal.png)
 
 
