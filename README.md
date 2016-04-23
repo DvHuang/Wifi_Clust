@@ -1,5 +1,6 @@
 # Wifi_Clust
 Wifi_Clust
+图书聚类项目链接：https://github.com/DvHuang/NMF_Book
 
 在wifi定位问题中，采用聚类的方法省去去除噪音的滤波过程
 
